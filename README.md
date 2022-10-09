@@ -1,7 +1,7 @@
-# Flipkart-MERN
-Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
+# SHOPWORKS
+Full-Stack website with Admin Dashboard & Paytm Payment Gateway.
 
-[Visit Now](https://flipkartwebs.herokuapp.com/) 🚀
+[Visit Now](https://youth-repo.herokuapp.com/) 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
@@ -54,26 +54,15 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Stock Management: Decrease stock of product when shipped
 
 ## Sneak Peek of Admin Dashboard 🙈 :
-![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG)
+![Capture](https://user-images.githubusercontent.com/76217614/194772731-5d28ce98-730c-4b43-88fe-23b5ed37570f.png)
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153995383-367cbcc0-cce5-4523-a999-b8d92e44d6ab.jpg" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153995406-45e36cbc-8d42-4416-b23a-08ad592e4ebc.jpg" alt="mockups" /></td>
+    <td><img src="https://user-images.githubusercontent.com/76217614/194772736-c07b2c04-2635-45dd-aad5-1edb8c7928f3.png" alt="mockup" /></td>
+    <td><img src="https://user-images.githubusercontent.com/76217614/194772737-0ae736d9-71de-412b-ab36-282143d7a402.png" alt="mockups" /></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153996560-bd631f30-46f0-4248-83b3-d8ce44a8f9e4.PNG" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153996577-57b1a82d-064a-49dc-9055-e2bceb854ab2.PNG" alt="mockups" /></td>
+    <td><img src="https://user-images.githubusercontent.com/76217614/194772738-58cbb86d-73c1-43cd-989a-5c3037f907fc.png" alt="mockup" /></td>
+    <td><img src="https://user-images.githubusercontent.com/76217614/194772741-998018a4-1c38-43fe-a7e3-f7ebe61bd9be.png" alt="mockups" /></td>
   </tr>
 </table>
-
-<h2>📬 Contact</h2>
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
-
-© 2022 Jigar Sable
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
